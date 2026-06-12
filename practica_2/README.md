@@ -1,6 +1,6 @@
 # Prácticas Diseño Interfaces de Usuario (Parte II: Caso de Estudio ECO MERCADO UGR)
 
-Curso: 2025/26 
+Grupo:.  Curso: 2025/26 
 
 Nombre del Proyecto: **ECOMERCADO UGR App**
 
@@ -10,6 +10,8 @@ Logotipo: 🌿 (Icono de hoja verde minimalista utilizado en la propuesta)
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Florín Emanuel Todor Gliga
+
+> 📄 **Nota:** Este README funciona como un resumen ejecutivo del Caso de Estudio. Para consultar todos los detalles en profundidad sobre la investigación, análisis de referentes, justificaciones de diseño y reflexiones, por favor revisa el **[documento PDF adjunto (ParteII_EcoMercado_UGR.pdf)](ParteII_EcoMercado_UGR.pdf)**.
 
 ----- 
 
@@ -54,6 +56,7 @@ De la investigación previa, extrajimos los siguientes **Insights clave**:
 3. El calendario (la fecha del próximo evento) debe ser el eje central de la interfaz.
 4. El diseño debe ser nativo móvil (el 85% del público universitario usará el móvil).
 5. Falta gamificación para fidelizar al público joven.
+6. El valor educativo está infraexplotado (se deben integrar talleres y charlas).
 
 ### 2.b ScopeCanvas
 ----

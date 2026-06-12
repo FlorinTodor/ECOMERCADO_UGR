@@ -1,6 +1,6 @@
 # Prácticas Diseño Interfaces de Usuario (Parte II: Caso de Estudio ECO MERCADO UGR)
 
-Grupo: DIU3_ADE.  Curso: 2025/26 
+Curso: 2025/26 
 
 Nombre del Proyecto: **ECOMERCADO UGR App**
 
